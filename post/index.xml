@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on tiptok</title>
+    <link>https://tiptok.github.io/post/</link>
+    <description>Recent content in Posts on tiptok</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Jun 2021 15:04:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://tiptok.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Postgresql Learn</title>
+      <link>https://tiptok.github.io/post/postgresql-learn/</link>
+      <pubDate>Mon, 21 Jun 2021 15:04:51 +0000</pubDate>
+      
+      <guid>https://tiptok.github.io/post/postgresql-learn/</guid>
+      <description>概念 sql DQL 查询 DML(Data manipulation Language) 数据操纵语言 （insert,update,delete） DDL(Data Definition Language) 数据定义语言 ，建表，索引，修改等 逻辑结构 表: Relation (Table) 数据行: Tuple (Row)</description>
+    </item>
+    
+  </channel>
+</rss>
